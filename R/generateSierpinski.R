@@ -30,3 +30,4 @@ stepToVertex <- function(from, to, step.size) {
   from * (1 - step.size) + to * step.size
 }
 
+x <- 2
